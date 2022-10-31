@@ -7,13 +7,8 @@ This project shows use of JavaScript, Git version control and the ablility to de
 ## Features
 Takes a random element from three seperate lists and creates a sentence about the weather at a random time of year.
 
-## How to Use
-Write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed
-
 ## Technologies
 - Java for generating the random sentence.
-- technologies and frameworks and thier purpose
-
-## License
+- Git for version control.
 
 

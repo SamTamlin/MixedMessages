@@ -1,5 +1,3 @@
-
-
 // List of months and seasons.
 const time = ["January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "Novemeber", "December", "winter", "spring", "summer", "autumn"];
 
@@ -17,10 +15,6 @@ const getFrequency = freq => freq.at(Math.floor(Math.random() * freq.length));
 
 // Get random weather.
 const getWeather = weath => weath.at(Math.floor(Math.random() * weath.length));
-
-// console.log(getTimeOfYear(time));
-// console.log(getFrequency(frequency));
-// console.log(getWeather(weather));
 
 // Create a sentance using the three random words.
 const sentance = (time, freq, weath) => {
